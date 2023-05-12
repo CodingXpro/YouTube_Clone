@@ -16,7 +16,7 @@ To run this project, install it locally using npm:
 
 ```
 $ npm install
-$npm run dev
+$npm start
 ```
 
 ![image](https://github.com/CodingXpro/YouTube_Clone/assets/98632075/be457d7d-92c4-4f01-a005-07d26e32cc68)
